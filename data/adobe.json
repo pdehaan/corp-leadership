@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Adobe Leadership",
+    "subtitle": null,
+    "people": [
+      {
+        "name": "Shantanu Narayen",
+        "title": "Chair and Chief Executive Officer"
+      },
+      {
+        "name": "Lara Balazs",
+        "title": "Chief Marketing Officer and Executive Vice President, Global Marketing"
+      },
+      {
+        "name": "Anil Chakravarthy",
+        "title": "President, Digital Experience Business"
+      },
+      {
+        "name": "Gloria Chen",
+        "title": "Chief People Officer and Executive Vice President, Employee Experience"
+      },
+      {
+        "name": "Dan Durn",
+        "title": "Chief Financial Officer and Executive Vice President, Finance, Technology, Security and Operations"
+      },
+      {
+        "name": "Louise Pentland",
+        "title": "Chief Legal Officer and Executive Vice President, Legal and Government Relations"
+      },
+      {
+        "name": "David Wadhwani",
+        "title": "President, Digital Media Business"
+      }
+    ]
+  }
+]

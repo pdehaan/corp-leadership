@@ -1,0 +1,24 @@
+[project]
+name = "corp-leadership"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "httpx>=0.28.1",
+    "parsel>=1.10.0"
+]
+
+[dependency-groups]
+dev = [
+    "poethepoet>=0.37.0",
+    "ruff>=0.13.2",
+]
+
+[tool.poe.tasks]
+adobe = "uv run adobe.py"
+mozilla = "uv run mozilla.py"
+start = ["adobe", "mozilla"]
+_lint = "uvx ruff check --select I --fix"
+_format = "uv format --preview-features format"
+lint = ["_lint", "_format"]

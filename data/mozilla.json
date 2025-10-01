@@ -1,0 +1,388 @@
+[
+  {
+    "title": "Mozilla",
+    "subtitle": "Executive Leadership Council",
+    "people": [
+      {
+        "name": "Mark Surman",
+        "title": "President, Mozilla"
+      },
+      {
+        "name": "Laura Chambers",
+        "title": "Interim CEO, Mozilla Corporation"
+      },
+      {
+        "name": "Mohamed Nanabhay",
+        "title": "Managing Partner, Mozilla Ventures"
+      },
+      {
+        "name": "John Dickerson",
+        "title": "CEO, Mozilla.ai"
+      },
+      {
+        "name": "Ryan Sipes",
+        "title": "Managing Director, Product MZLA"
+      },
+      {
+        "name": "Nabiha Syed",
+        "title": "Executive Director, Mozilla Foundation"
+      }
+    ]
+  },
+  {
+    "title": "Mozilla Corporation",
+    "subtitle": "Executive Team",
+    "people": [
+      {
+        "name": "Laura Chambers",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Dani Chehak",
+        "title": "Chief People Officer"
+      },
+      {
+        "name": "Jenny Choo",
+        "title": "VP & Chief of Staff"
+      },
+      {
+        "name": "Anthony Enzor-DeMeo",
+        "title": "General Manager, Firefox"
+      },
+      {
+        "name": "Eric Muhlheim",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Girish Rao",
+        "title": "SVP of Infrastructure"
+      },
+      {
+        "name": "Peter Rojas",
+        "title": "SVP of New Products"
+      },
+      {
+        "name": "Brad Smallwood",
+        "title": "SVP of Anonym"
+      },
+      {
+        "name": "Carlos Torres",
+        "title": "Chief Legal Officer"
+      },
+      {
+        "name": "Suba Vasudevan",
+        "title": "SVP of Strategy and Operations"
+      }
+    ]
+  },
+  {
+    "title": "Mozilla Corporation",
+    "subtitle": "Senior Leadership Team",
+    "people": [
+      {
+        "name": "Vicky Chin",
+        "title": "VP of Engineering"
+      },
+      {
+        "name": "Anne Goodrich",
+        "title": "VP of Product Marketing"
+      },
+      {
+        "name": "Jesse Goranson",
+        "title": "VP of Sales"
+      },
+      {
+        "name": "Nicholas Grammater",
+        "title": "VP of Finance"
+      },
+      {
+        "name": "Tamara Greasby",
+        "title": "VP of Engineering"
+      },
+      {
+        "name": "Linda Griffin",
+        "title": "VP of Global Policy"
+      },
+      {
+        "name": "Bobby Holley",
+        "title": "CTO, Firefox"
+      },
+      {
+        "name": "John Humphrey",
+        "title": "VP of Data Science and Engineering"
+      },
+      {
+        "name": "Chris Karlof",
+        "title": "VP of Services Engineering"
+      },
+      {
+        "name": "Christina Lang",
+        "title": "VP of Marketing, North America"
+      },
+      {
+        "name": "Graham Mudd",
+        "title": "SVP of Product"
+      },
+      {
+        "name": "Masayo Nobe",
+        "title": "VP of Legal"
+      },
+      {
+        "name": "Andrew Overholt",
+        "title": "VP of Engineering"
+      },
+      {
+        "name": "Vrinda Shah",
+        "title": "VP of Finance"
+      },
+      {
+        "name": "Pranav Shahi",
+        "title": "VP of Information Technology"
+      },
+      {
+        "name": "Raj Singh",
+        "title": "VP of Product"
+      },
+      {
+        "name": "Ajit Varma",
+        "title": "VP of Firefox Product"
+      }
+    ]
+  },
+  {
+    "title": "Mozilla Corporation",
+    "subtitle": "Board of Directors",
+    "people": [
+      {
+        "name": "Kerry W. Cooper, Chair",
+        "title": "Chair of the Compensation Committee, Member of the Audit Committee"
+      },
+      {
+        "name": "Laura Chambers",
+        "title": "Board Member"
+      },
+      {
+        "name": "Bob Lisbonne",
+        "title": "Chair of the Audit Committee, Member of the Nominating and Governance Committee"
+      },
+      {
+        "name": "Hugh Molotsi",
+        "title": "Chair of the Nominating and Governance Committee, Member of the Compensation Committee"
+      },
+      {
+        "name": "Kristin Skogen Lund",
+        "title": "Member of the Audit Committee"
+      }
+    ]
+  },
+  {
+    "title": "Mozilla Foundation",
+    "subtitle": "Leadership Team",
+    "people": [
+      {
+        "name": "Mark Surman",
+        "title": "President"
+      },
+      {
+        "name": "Nabiha Syed",
+        "title": "Executive Director"
+      },
+      {
+        "name": "Angela Plohman",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Dayo Lamolo",
+        "title": "VP of Strategic Communications"
+      }
+    ]
+  },
+  {
+    "title": "Mozilla Foundation",
+    "subtitle": "Board of Directors",
+    "people": [
+      {
+        "name": "Nicole Wong, Chair",
+        "title": null
+      },
+      {
+        "name": "Brian Behlendorf",
+        "title": null
+      },
+      {
+        "name": "Zain Habboo",
+        "title": null
+      },
+      {
+        "name": "Amy Keating",
+        "title": null
+      },
+      {
+        "name": "Edwin Macharia",
+        "title": null
+      },
+      {
+        "name": "Alondra Nelson",
+        "title": null
+      },
+      {
+        "name": "Mark Surman",
+        "title": null
+      },
+      {
+        "name": "Helen Turvey",
+        "title": null
+      }
+    ]
+  },
+  {
+    "title": "MZLA Technologies Corp.",
+    "subtitle": "Leadership Team",
+    "people": [
+      {
+        "name": "Ryan Sipes",
+        "title": "Managing Director, Product"
+      },
+      {
+        "name": "Lisa McCormack",
+        "title": "Managing Director, Operations"
+      }
+    ]
+  },
+  {
+    "title": "MZLA Technologies Corp.",
+    "subtitle": "Board of Directors",
+    "people": [
+      {
+        "name": "Brian Behlendorf",
+        "title": null
+      },
+      {
+        "name": "Angela Plohman",
+        "title": null
+      },
+      {
+        "name": "Mark Surman",
+        "title": null
+      }
+    ]
+  },
+  {
+    "title": "Mozilla Ventures",
+    "subtitle": "Leadership Team",
+    "people": [
+      {
+        "name": "Mohamed Nanabhay",
+        "title": "Managing Partner"
+      },
+      {
+        "name": "Adam Mullinax",
+        "title": "Partner"
+      }
+    ]
+  },
+  {
+    "title": "Mozilla Ventures",
+    "subtitle": "Board of Directors",
+    "people": [
+      {
+        "name": "Amy Keating",
+        "title": null
+      },
+      {
+        "name": "Bob Lisbonne",
+        "title": null
+      },
+      {
+        "name": "Mark Surman",
+        "title": null
+      }
+    ]
+  },
+  {
+    "title": "Mozilla.ai",
+    "subtitle": "Leadership Team",
+    "people": [
+      {
+        "name": "John Dickerson",
+        "title": "CEO"
+      },
+      {
+        "name": "Julie Belião",
+        "title": "VP, Product"
+      }
+    ]
+  },
+  {
+    "title": "Mozilla.ai",
+    "subtitle": "Board of Directors",
+    "people": [
+      {
+        "name": "Raffi Krikorian",
+        "title": null
+      },
+      {
+        "name": "Jane Silber",
+        "title": null
+      },
+      {
+        "name": "Mark Surman",
+        "title": null
+      },
+      {
+        "name": "John Dickerson",
+        "title": null
+      }
+    ]
+  },
+  {
+    "title": "Former Board Members",
+    "subtitle": null,
+    "people": [
+      {
+        "name": "Mitchell Baker",
+        "title": null
+      },
+      {
+        "name": "Cathy Davidson",
+        "title": null
+      },
+      {
+        "name": "Julie Hanna",
+        "title": null
+      },
+      {
+        "name": "Reid Hoffman",
+        "title": null
+      },
+      {
+        "name": "Joi Ito",
+        "title": null
+      },
+      {
+        "name": "Mitch Kapor",
+        "title": null
+      },
+      {
+        "name": "Navrina Singh",
+        "title": null
+      },
+      {
+        "name": "Wambui Kinya",
+        "title": null
+      },
+      {
+        "name": "Ronaldo Lemos",
+        "title": null
+      },
+      {
+        "name": "Mohamed Nanabhay",
+        "title": null
+      },
+      {
+        "name": "Karim Lakhani",
+        "title": null
+      }
+    ]
+  }
+]
