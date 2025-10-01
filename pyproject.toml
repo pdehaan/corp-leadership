@@ -16,9 +16,29 @@ dev = [
 ]
 
 [tool.poe.tasks]
-adobe = "uv run adobe.py"
-mozilla = "uv run mozilla.py"
-start = ["adobe", "mozilla"]
-_lint = "uvx ruff check --select I --fix"
-_format = "uv format --preview-features format"
-lint = ["_lint", "_format"]
+# adobe = {shell="uv run adobe.py > data/adobe.json", help="Fetch Adobe leadership"}
+# mozilla = {shell="uv run mozilla.py > data/mozilla.json", help="Fetch Mozilla leadership"}
+# start.sequence = ["adobe", "mozilla"]
+# start.ignore_fail = "return_non_zero"
+# start.help = "Scrape all leadership pages"
+# _lint = "
+# _format = ""
+
+lint.help = "Lint and format .py files"
+lint.sequence = [
+    { cmd = "uvx ruff check --select I --fix" },
+    { cmd = "uv format --preview-features format" }
+]
+
+[tool.poe.tasks.start]
+sequence = ["adobe", "mozilla"]
+ignore_fail = "return_non_zero"
+help = "Scrape all leadership pages"
+
+[tool.poe.tasks.adobe]
+shell = "uv run adobe.py > data/adobe.json"
+help = "Scrape Adobe leadership"
+
+[tool.poe.tasks.mozilla]
+shell = "uv run mozilla.py > data/mozilla.json"
+help = "Scrape Mozilla leadership"
