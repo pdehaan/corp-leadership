@@ -1,13 +1,13 @@
 main:
-		make adobe
-		make mozilla
+		uv run main.py
 
 adobe:
-		poe adobe > data/adobe.json
+		poe adobe
 
 mozilla:
-		poe mozilla > data/mozilla.json
+		poe mozilla
 
 format:
-		uvx ruff check --select I --fix
-		uv format --preview-features format
+		poe lint
+		# uvx ruff check --fix
+		# uv format --preview-features format

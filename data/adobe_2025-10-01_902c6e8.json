@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Adobe Leadership",
+    "subtitle": null,
+    "people": [
+      {
+        "name": "Shantanu Narayen",
+        "title": "Chair and Chief Executive Officer"
+      },
+      {
+        "name": "Lara Balazs",
+        "title": "Chief Marketing Officer and Executive Vice President, Global Marketing"
+      },
+      {
+        "name": "Anil Chakravarthy",
+        "title": "President, Digital Experience Business"
+      },
+      {
+        "name": "Gloria Chen",
+        "title": "Chief People Officer and Executive Vice President, Employee Experience"
+      },
+      {
+        "name": "Dan Durn",
+        "title": "Chief Financial Officer and Executive Vice President, Finance, Technology, Security and Operations"
+      },
+      {
+        "name": "Louise Pentland",
+        "title": "Chief Legal Officer and Executive Vice President, Legal and Government Relations"
+      },
+      {
+        "name": "David Wadhwani",
+        "title": "President, Digital Media Business"
+      }
+    ]
+  },
+  {
+    "title": "Board of Directors",
+    "subtitle": null,
+    "people": [
+      {
+        "name": "Shantanu Narayen",
+        "title": "Chair and Chief Executive Officer of Adobe"
+      },
+      {
+        "name": "Cristiano Amon",
+        "title": "President and Chief Executive Officer of Qualcomm Incorporated"
+      },
+      {
+        "name": "Amy Banse",
+        "title": "Partner, Mastry, Inc."
+      },
+      {
+        "name": "Melanie Boulden",
+        "title": "Executive Vice President and Chief Growth Officer, Tyson Foods, Inc."
+      },
+      {
+        "name": "Frank Calderoni",
+        "title": "Lead Director of Adobe"
+      },
+      {
+        "name": "Laura Desmond",
+        "title": "Chief Executive Officer, Smartly.io"
+      },
+      {
+        "name": "Spencer Neumann",
+        "title": "Chief Financial Officer, Netflix"
+      },
+      {
+        "name": "Kathleen “Leeny” Oberg",
+        "title": "Chief Financial Officer and Executive Vice President, Development, Marriott International"
+      },
+      {
+        "name": "Dheeraj Pandey",
+        "title": "Chairman and CEO, DevRev, Inc."
+      },
+      {
+        "name": "Dave Ricks",
+        "title": "Chief Executive Officer of Eli Lilly and Company"
+      },
+      {
+        "name": "Dan Rosensweig",
+        "title": "Executive Chairman of Chegg, Inc."
+      }
+    ]
+  }
+]

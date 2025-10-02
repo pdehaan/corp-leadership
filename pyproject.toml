@@ -12,8 +12,12 @@ dependencies = [
 [dependency-groups]
 dev = [
     "poethepoet>=0.37.0",
+    "pre-commit>=4.3.0",
     "ruff>=0.13.2",
 ]
+
+[tool.ruff.lint]
+extend-select = ["B", "I"]
 
 [tool.poe.tasks]
 # adobe = {shell="uv run adobe.py > data/adobe.json", help="Fetch Adobe leadership"}
@@ -26,7 +30,7 @@ dev = [
 
 lint.help = "Lint and format .py files"
 lint.sequence = [
-    { cmd = "uvx ruff check --select I --fix" },
+    { cmd = "uvx ruff check --fix" },
     { cmd = "uv format --preview-features format" }
 ]
 
@@ -36,9 +40,9 @@ ignore_fail = "return_non_zero"
 help = "Scrape all leadership pages"
 
 [tool.poe.tasks.adobe]
-shell = "uv run adobe.py > data/adobe.json"
+shell = "uv run adobe.py"
 help = "Scrape Adobe leadership"
 
 [tool.poe.tasks.mozilla]
-shell = "uv run mozilla.py > data/mozilla.json"
+shell = "uv run mozilla.py"
 help = "Scrape Mozilla leadership"
