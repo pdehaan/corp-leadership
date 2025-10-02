@@ -4,17 +4,10 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = [
-    "httpx>=0.28.1",
-    "parsel>=1.10.0"
-]
+dependencies = ["httpx>=0.28.1", "parsel>=1.10.0"]
 
 [dependency-groups]
-dev = [
-    "poethepoet>=0.37.0",
-    "pre-commit>=4.3.0",
-    "ruff>=0.13.2",
-]
+dev = ["poethepoet>=0.37.0", "pre-commit>=4.3.0", "ruff>=0.13.2"]
 
 [tool.ruff.lint]
 extend-select = ["B", "I"]
@@ -31,7 +24,7 @@ extend-select = ["B", "I"]
 lint.help = "Lint and format .py files"
 lint.sequence = [
     { cmd = "uvx ruff check --fix" },
-    { cmd = "uv format --preview-features format" }
+    { cmd = "uv format --preview-features format" },
 ]
 
 [tool.poe.tasks.start]
